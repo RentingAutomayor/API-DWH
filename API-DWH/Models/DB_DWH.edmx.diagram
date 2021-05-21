@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="26611c8e571b47a888eca2c39223fcd4" Name="Diagram1">
+        <EntityTypeShape EntityType="BD_DWHModel.additionalInformationByContact" Width="1.5" PointX="15.75" PointY="13.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.ally" Width="1.5" PointX="3" PointY="14.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.areas" Width="1.5" PointX="1.5" PointY="22.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.branch" Width="1.5" PointX="11.25" PointY="14.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.Canal" Width="1.5" PointX="3.75" PointY="18.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.CashSpecialist" Width="1.5" PointX="13.5" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.Cities" Width="1.5" PointX="0.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.Client" Width="1.5" PointX="6" PointY="13.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.CNE" Width="1.5" PointX="13.5" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.ConfigExternalApplication" Width="1.5" PointX="22.25" PointY="20.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.ConnectionType" Width="1.5" PointX="17.75" PointY="21.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.Contact" Width="1.5" PointX="13.5" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.Contract" Width="1.5" PointX="8.25" PointY="14.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.Countries" Width="1.5" PointX="1.5" PointY="19.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.DD_ExternalObject" Width="1.5" PointX="25.25" PointY="19.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.DD_ExternalObjectFields" Width="1.5" PointX="27.5" PointY="20.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.DD_LocalObject" Width="1.5" PointX="23" PointY="17.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.DD_LocalObjectFields" Width="1.5" PointX="25.25" PointY="16.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.Departments" Width="1.5" PointX="1.5" PointY="3" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.EconomicActivity" Width="1.5" PointX="3.75" PointY="21.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.ExternalApplication" Width="1.5" PointX="20" PointY="21.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.jobTitle" Width="1.5" PointX="0.75" PointY="10.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.JobTitlesClient" Width="1.5" PointX="11.25" PointY="11" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.kindOfAlly" Width="1.5" PointX="0.75" PointY="28" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.KindOfBanking" Width="1.5" PointX="13.5" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.kindOfDocument" Width="1.5" PointX="0.75" PointY="14.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.logins" Width="1.5" PointX="5.25" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.modules" Width="1.5" PointX="3.75" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.operationalInformationByRequest" Width="1.5" PointX="21" PointY="10.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.permission" Width="1.5" PointX="3.75" PointY="24.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.permissionByModule" Width="1.5" PointX="6" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.permissionByRole" Width="1.5" PointX="8.25" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.probability" Width="1.5" PointX="16.5" PointY="10.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.Regional" Width="1.5" PointX="13.5" PointY="19.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.RegionalsMain" Width="1.5" PointX="13.5" PointY="21.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.RegionalsVice" Width="1.5" PointX="13.5" PointY="24.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.Request" Width="1.5" PointX="18.75" PointY="11" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.riskInformationByRequest" Width="1.5" PointX="24" PointY="10.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.roles" Width="1.5" PointX="0.75" PointY="24.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.Segment" Width="1.5" PointX="13.5" PointY="26.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.stateGroup" Width="1.5" PointX="14.25" PointY="6.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.states" Width="1.5" PointX="16.5" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.userByRol" Width="1.5" PointX="5.25" PointY="6.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.users" Width="1.5" PointX="3" PointY="8.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.vehicle" Width="1.5" PointX="8.75" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.VicePresident" Width="1.5" PointX="13.5" PointY="29.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.VP" Width="1.5" PointX="13.5" PointY="32" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_DWHModel.Zonal" Width="1.5" PointX="13.5" PointY="34.375" IsExpanded="true" />
+        <AssociationConnector Association="BD_DWHModel.FK__additiona__cne_i__3493CFA7" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__additiona__cnt_i__31B762FC" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__additiona__cs_id__3A4CA8FD" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__additiona__kob_i__32AB8735" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__additiona__rgl_i__339FAB6E" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__additiona__rm_id__3864608B" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__additiona__rv_id__37703C52" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__additiona__sgm_i__3587F3E0" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__additiona__vp_id__395884C4" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__additiona__znl_i__367C1819" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK_additionalInformationByContact_vp" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__ally__kod_id__6E01572D" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__branch__ally_doc__6EF57B66" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK_ally_kindOfAly" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK_jobTitle_areas" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__branch__cli_docu__6FE99F9F" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__Contact__bra_id__75A278F5" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__Client__cnl_id__71D1E811" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__Cities__dpt_id__70DDC3D8" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__Client__cty_id__72C60C4A" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__Contact__cty_id__76969D2E" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__users__cty_id__0B91BA14" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__Client__ea_id__73BA3083" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__Client__kod_id__74AE54BC" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__Contract__contra__50FB042B" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__Request__cli_doc__00200768" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__ConfigExt__exap___1D7B6025" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__ExternalA__exap___7A3223E8" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__Contact__jtcl_id__778AC167" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK_request_contact" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__Departmen__ctry___787EE5A0" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__DD_Extern__dd_ex__0E391C95" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__DD_Extern__exap___04AFB25B" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK_DD_ExternalObject_DD_LocalObject" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK_DD_ExternalObjectFields_DD_LocalObjectFields" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__DD_LocalO__dd_lc__1209AD79" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__users__jt_id__0C85DE4D" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__users__kod_id__0D7A0286" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__logins__usu_docu__7A672E12" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__permissio__mdl_i__7C4F7684" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__operation__rqt_i__7B5B524B" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK_operationalInformationByRequest_users" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__permissio__perm___7D439ABD" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__permissio__permB__7E37BEF6" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__permissio__rol_i__7F2BE32F" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__Request__prb_id__01142BA1" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__Request__rqt_pri__02084FDA" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__Request__rqt_sec__02FC7413" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__Request__usu_doc__03F0984C" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__riskInfor__rqt_i__05D8E0BE" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__riskInfor__sta_i__06CD04F7" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK_riskinformationByrequest_users" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__userByRol__rol_i__09A971A2" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__users__rol_id__0E6E26BF" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK_state_stateGroup" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__states__sta_id__07C12930" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_DWHModel.FK__userByRol__usu_d__0A9D95DB" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
